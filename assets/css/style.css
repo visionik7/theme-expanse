@@ -67,6 +67,9 @@ body {
   font-family: 'Roboto';
   font-weight: 300;
 }
+pre {
+  white-space: pre-wrap;
+}
 h1,
 h2,
 h3,
